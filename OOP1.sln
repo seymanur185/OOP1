@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{5A3AB44C-4B87-4604-9B11-007A91A09A34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{5A3AB44C-4B87-4604-9B11-007A91A09A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "..\KampIntorn\Koleksiyonlar\Koleksiyonlar.csproj", "{4654BEA9-9771-4DF2-BF09-ED0CCFA30E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "..\KampIntorn\GenericsIntro\GenericsIntro.csproj", "{8337F9C3-45A4-4504-ADBD-B20FC0A96942}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5A3AB44C-4B87-4604-9B11-007A91A09A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A3AB44C-4B87-4604-9B11-007A91A09A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3AB44C-4B87-4604-9B11-007A91A09A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4654BEA9-9771-4DF2-BF09-ED0CCFA30E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4654BEA9-9771-4DF2-BF09-ED0CCFA30E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4654BEA9-9771-4DF2-BF09-ED0CCFA30E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4654BEA9-9771-4DF2-BF09-ED0CCFA30E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8337F9C3-45A4-4504-ADBD-B20FC0A96942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8337F9C3-45A4-4504-ADBD-B20FC0A96942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8337F9C3-45A4-4504-ADBD-B20FC0A96942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8337F9C3-45A4-4504-ADBD-B20FC0A96942}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
